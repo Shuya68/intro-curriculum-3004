@@ -1,11 +1,8 @@
 {
-  "name": "sum",
-  "version": "2.0.0",
-  "description": "",
+  "name": "intro-curriculum-3004",
+  "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "repository": "git@github.com:Shuya68/intro-curriculum-3004.git",
+  "author": "Shuya68 <s.murakami.a.c.t@gmail.com>",
+  "license": "MIT"
 }
